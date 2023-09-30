@@ -1,5 +1,4 @@
 Flask
-python-dotenv==1.0.0
+python-dotenv
 youtube_transcript_api==0.6.1
-pipreqs
 python-3.10.13
